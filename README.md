@@ -1,6 +1,7 @@
-# Complex On-Chain Order Book
+# On-Chain Order Book
 
 A sophisticated, gas-optimized decentralized order book implementation in Solidity that supports multiple trading pairs, limit/market orders, partial fills, and order cancellation.
+This code was written for the purpose of learning about On-chain OrderBooks 
 
 ## Features
 
