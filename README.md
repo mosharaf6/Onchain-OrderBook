@@ -79,4 +79,4 @@ The project includes comprehensive tests covering:
 
 ## License
 
-This project is licensed under the UNLICENSED License.
+UNLICENSED 
